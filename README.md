@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rafael 👋
 
-<!--
-**rafael-diaz7/rafael-diaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer interested in backend systems, automation, data science, and AI.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [clipforge](https://github.com/rafael-diaz7/clipforge), an automated clipping/rendering pipeline
+- 🌱 I’m currently learning more about AI/ML systems, data science, and production automation
+- 📫 How to reach me: rafael.diaz5512@gmail.com
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+TensorFlow · Java · Python · AWS · TypeScript
+
+### GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-diaz7&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-diaz7&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rafael-diaz7&theme=tokyonight&hide_border=true)
