@@ -1,50 +1,27 @@
-# Hi, I'm Rafael 👋
+# hey, i'm rafael
 
-I'm a software engineer interested in backend systems, automation, data science, AI/ML systems, and developer tooling.
+i'm currently a software engineer at amazon, but i originally got into computer science through nlp research, mostly working with clinical text and language models. i really enjoyed the research side of things, especially coming up with ideas, testing them, and seeing whether they actually worked.
 
-I like building practical systems that turn messy workflows into reliable pipelines.
+i eventually moved into software engineering, which i've enjoyed too, but i'm still figuring out what i want to do long term. i'd love to work in a research lab someday, ideally doing something involving biology or chemistry. really, i just want to work on interesting problems and build things that have some kind of meaningful impact.
 
-- 🔭 Currently working on [Clipforge](https://github.com/rafael-diaz7/clipforge), an automated pipeline for discovering, processing, rendering, and reviewing short-form clips
-- 🧪 Also building [DataCanary](https://github.com/rafael-diaz7/datacanary), a data quality / monitoring tool inspired by problems I’ve run into while building other projects
-- 🛠️ Interested in backend infrastructure, automation, data pipelines, applied AI/ML, and production systems
-- 🌱 Currently learning more about AI/ML engineering, data science, and scalable automation
-- 💻 Most comfortable with Python, Java, AWS, TypeScript, and SQL
-- 📫 How to reach me: rafael@goosetavo.dev
-- 😄 Pronouns: he/him
+## some things i'm working on to pass my 'free time'
 
-## Featured Projects
+### [clipforge](https://clipforge.goosetavo.dev/) <sub><i>might be down rn</i></sub>
 
-### [Clipforge](https://github.com/rafael-diaz7/clipforge)
+a project i started to automate making short-form videos from twitch streams. it finds clips, downloads them, generates captions, and renders them into vertical videos. there's also a local interface for reviewing everything before exporting.
 
-An automated clipping and rendering pipeline for short-form video workflows.
+this one was born because I had some idea that I could make money
 
-Clipforge helps with:
+### [localscoop](https://localscoop.app/)
 
-- Discovering and ranking clips
-- Downloading source videos
-- Generating captions
-- Sampling frames
-- Detecting facecam / overlay regions
-- Rendering multiple vertical layouts
-- Reviewing and exporting clips through a local review flow
+a newer idea i've been exploring to make it easier to find local events and things to do. the goal is to bring events from different places into one spot, instead of having to search through a bunch of different websites. 
 
-### [DataCanary](https://github.com/rafael-diaz7/datacanary)
+this one started so my girlfriend and I could quickly find things to do for the weekend, still pretty early on this one.
 
-A lightweight data quality and monitoring project focused on catching issues in datasets before they quietly break downstream workflows.
+## contact
 
-DataCanary is partly a practical tool and partly a way to get more hands-on experience building reliable, testable data infrastructure.
+feel free to reach out at [rafael@goosetavo.dev](mailto:rafael@goosetavo.dev)
 
-It is designed around ideas like:
+## gitHub
 
-- Defining expectations for datasets
-- Checking schema, nulls, ranges, and other common data issues
-- Producing clear reports when something looks off
-- Keeping the tool simple enough to use in small projects
-
-## Tech
-
-Python · Java · TypeScript · AWS · SQL · TensorFlow · OpenCV · FFmpeg · GitHub Actions
-
-## GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rafael-diaz7&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rafael-diaz7&theme=tokyonight&hide_border=true)\
