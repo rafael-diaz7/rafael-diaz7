@@ -22,6 +22,6 @@ this one started so my girlfriend and I could quickly find things to do for the 
 
 feel free to reach out at [rafael@goosetavo.dev](mailto:rafael@goosetavo.dev)
 
-## gitHub
+## github
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rafael-diaz7&theme=tokyonight&hide_border=true)\
+![GitHub Streak](https://streak-stats.demolab.com?user=rafael-diaz7&theme=tokyonight&hide_border=true)
